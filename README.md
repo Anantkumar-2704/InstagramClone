@@ -1,3 +1,6 @@
+Click here - https://anantkumar-2704.github.io/InstagramClone/
+
+
 📸 Instagram Clone (Frontend)
 A clean and responsive Instagram Clone built using HTML, CSS, and JavaScript.
 This project focuses on recreating the look & feel of Instagram’s main feed with interactive UI elements like stories, posts, and like animations.
